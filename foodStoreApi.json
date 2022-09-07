@@ -1,0 +1,28 @@
+[
+	{
+		"name": "4 Queijos",
+		"imageUrl": "https://images.aws.nestle.recipes/resized/ec7790c3741418234970f17ade9e50f1_pizza-4-queijos-receitas-nestle_1200_600.jpg",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "15.90",
+		"size": "M",
+		"flavor": ["Mussarela", "Provolone", "Parmesão", "Catupiry", "Orégano"],
+		"category": "Pizza",
+		"isInPromo": true
+	},
+	{
+		"name": "Calabresa",
+		"imageUrl": "https://t2.rg.ltmcdn.com/pt/posts/9/8/3/pizza_calabresa_e_mussarela_4389_600.jpgg",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "20.90",
+		"size": "G",
+		"flavor": ["Mussarela", "Calabresa", "Orégano"],
+		"category": "Pizza",
+		"isInPromo": false
+	}
+]
