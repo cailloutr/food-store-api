@@ -144,10 +144,8 @@
          }
       ],
       "price":"7.90",
-      "size":"",
-      "flavor":[
-         
-      ],
+      "size":null,
+      "flavor":null,
       "category":"Drink",
       "is_in_promo":false
    },
@@ -161,7 +159,7 @@
          }
       ],
       "price":"7.90",
-      "size":"",
+      "size":null,
       "flavor":[
          "Massa",
          "Presunto",
@@ -182,10 +180,8 @@
          }
       ],
       "price":"6.90",
-      "size":"",
-      "flavor":[
-         
-      ],
+      "size":null,
+      "flavor":null,
       "category":"More",
       "is_in_promo":false
    }
