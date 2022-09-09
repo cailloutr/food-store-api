@@ -1,7 +1,7 @@
 [
 	{
 		"name": "4 Queijos",
-		"imageUrl": "https://images.aws.nestle.recipes/resized/ec7790c3741418234970f17ade9e50f1_pizza-4-queijos-receitas-nestle_1200_600.jpg",
+		"image_url": "https://images.aws.nestle.recipes/resized/ec7790c3741418234970f17ade9e50f1_pizza-4-queijos-receitas-nestle_1200_600.jpg",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -10,11 +10,11 @@
 		"size": "M",
 		"flavor": ["Mussarela", "Provolone", "Parmesão", "Catupiry", "Orégano"],
 		"category": "Pizza",
-		"isInPromo": true
+		"is_in_promo": true
 	},
 	{
 		"name": "Calabresa",
-		"imageUrl": "https://t2.rg.ltmcdn.com/pt/posts/9/8/3/pizza_calabresa_e_mussarela_4389_600.jpgg",
+		"image_url": "https://t2.rg.ltmcdn.com/pt/posts/9/8/3/pizza_calabresa_e_mussarela_4389_600.jpgg",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -23,11 +23,11 @@
 		"size": "G",
 		"flavor": ["Mussarela", "Calabresa", "Orégano"],
 		"category": "Pizza",
-		"isInPromo": false
+		"is_in_promo": false
 	},
 	{
 		"name": "Frango c/ Catupiry",
-		"imageUrl": "http://www.hojetemfrango.com.br/wp-content/uploads/2019/01/shutterstock_333724454.jpg",
+		"image_url": "http://www.hojetemfrango.com.br/wp-content/uploads/2019/01/shutterstock_333724454.jpg",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -36,11 +36,11 @@
 		"size": "P",
 		"flavor": ["Mussarela", "Frango", "Catupiry", "Orégano"],
 		"category": "Pizza",
-		"isInPromo": true
+		"is_in_promo": true
 	},
 	{
 		"name": "Margerita",
-		"imageUrl": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2020/08/pizza-margherita.jpg?x41527",
+		"image_url": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2020/08/pizza-margherita.jpg?x41527",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -49,11 +49,11 @@
 		"size": "PP",
 		"flavor": ["Mussarela", "Tomate", "Manjericão"],
 		"category": "Pizza",
-		"isInPromo": false
+		"is_in_promo": false
 	},
 	{
 		"name": "Pão de alho",
-		"imageUrl": "https://www.hypeness.com.br/1/2020/03/dominos4-1.png",
+		"image_url": "https://www.hypeness.com.br/1/2020/03/dominos4-1.png",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -62,11 +62,11 @@
 		"size": "PP",
 		"flavor": ["Mussarela", "Pasta de alho", "Manjericão"],
 		"category": "Pizza",
-		"isInPromo": false
+		"is_in_promo": false
 	},
 	{
 		"name": "Banana Caramelizada",
-		"imageUrl": "https://haraldfoodservice.com.br/wp-content/uploads/2019/12/pizza-de-banana-e-chocolate-branco-imagem-a-esquerda-receitas-960x440.jpg",
+		"image_url": "https://haraldfoodservice.com.br/wp-content/uploads/2019/12/pizza-de-banana-e-chocolate-branco-imagem-a-esquerda-receitas-960x440.jpg",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -75,11 +75,11 @@
 		"size": "M",
 		"flavor": ["Banana", "Açúcar", "Canela"],
 		"category": "Pizza",
-		"isInPromo": true
+		"is_in_promo": true
 	},
 	{
 		"name": "Doce de Leite Moça",
-		"imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/08/85/e8/73/simone-pizzas.jpg",
+		"image_url": "https://media-cdn.tripadvisor.com/media/photo-s/08/85/e8/73/simone-pizzas.jpg",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -88,11 +88,11 @@
 		"size": "G",
 		"flavor": ["Doce de Leite Caseiro", "Amendoim Granulado"],
 		"category": "Pizza",
-		"isInPromo": false
+		"is_in_promo": false
 	},
 	{
 		"name": "Coca-Cola",
-		"imageUrl": "https://andinacocacola.vtexassets.com/arquivos/ids/155513/7894900010015_01.jpg?v=637722480255130000",
+		"image_url": "https://andinacocacola.vtexassets.com/arquivos/ids/155513/7894900010015_01.jpg?v=637722480255130000",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -101,11 +101,11 @@
 		"size": "",
 		"flavor": [],
 		"category": "Drink",
-		"isInPromo": false
+		"is_in_promo": false
 	},
 	{
 		"name": "Lasanha",
-		"imageUrl": "https://img.itdg.com.br/tdg/images/recipes/000/138/558/325115/325115_original.jpg?mode=crop&width=710&height=400",
+		"image_url": "https://img.itdg.com.br/tdg/images/recipes/000/138/558/325115/325115_original.jpg?mode=crop&width=710&height=400",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -114,11 +114,11 @@
 		"size": "",
 		"flavor": ["Massa", "Presunto", "Queijo Mussarela", "Carme Moida", "Massa de T"],
 		"category": "Lasagna",
-		"isInPromo": false
+		"is_in_promo": false
 	},
 	{
 		"name": "Arroz",
-		"imageUrl": "https://img.itdg.com.br/tdg/images/recipes/000/000/770/323683/323683_original.jpg?w=1200",
+		"image_url": "https://img.itdg.com.br/tdg/images/recipes/000/000/770/323683/323683_original.jpg?w=1200",
 		"rating": {
 			"stars": "5" ,
 			"coment": "The best in town!!"
@@ -127,6 +127,6 @@
 		"size": "",
 		"flavor": [],
 		"category": "More",
-		"isInPromo": false
+		"is_in_promo": false
 	}
 ]
