@@ -1,132 +1,192 @@
 [
-	{
-		"name": "4 Queijos",
-		"image_url": "https://images.aws.nestle.recipes/resized/ec7790c3741418234970f17ade9e50f1_pizza-4-queijos-receitas-nestle_1200_600.jpg",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "15.90",
-		"size": "M",
-		"flavor": ["Mussarela", "Provolone", "Parmesão", "Catupiry", "Orégano"],
-		"category": "Pizza",
-		"is_in_promo": true
-	},
-	{
-		"name": "Calabresa",
-		"image_url": "https://t2.rg.ltmcdn.com/pt/posts/9/8/3/pizza_calabresa_e_mussarela_4389_600.jpgg",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "20.90",
-		"size": "G",
-		"flavor": ["Mussarela", "Calabresa", "Orégano"],
-		"category": "Pizza",
-		"is_in_promo": false
-	},
-	{
-		"name": "Frango c/ Catupiry",
-		"image_url": "http://www.hojetemfrango.com.br/wp-content/uploads/2019/01/shutterstock_333724454.jpg",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "21.90",
-		"size": "P",
-		"flavor": ["Mussarela", "Frango", "Catupiry", "Orégano"],
-		"category": "Pizza",
-		"is_in_promo": true
-	},
-	{
-		"name": "Margerita",
-		"image_url": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2020/08/pizza-margherita.jpg?x41527",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "22.90",
-		"size": "PP",
-		"flavor": ["Mussarela", "Tomate", "Manjericão"],
-		"category": "Pizza",
-		"is_in_promo": false
-	},
-	{
-		"name": "Pão de alho",
-		"image_url": "https://www.hypeness.com.br/1/2020/03/dominos4-1.png",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "22.90",
-		"size": "PP",
-		"flavor": ["Mussarela", "Pasta de alho", "Manjericão"],
-		"category": "Pizza",
-		"is_in_promo": false
-	},
-	{
-		"name": "Banana Caramelizada",
-		"image_url": "https://haraldfoodservice.com.br/wp-content/uploads/2019/12/pizza-de-banana-e-chocolate-branco-imagem-a-esquerda-receitas-960x440.jpg",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "22.90",
-		"size": "M",
-		"flavor": ["Banana", "Açúcar", "Canela"],
-		"category": "Pizza",
-		"is_in_promo": true
-	},
-	{
-		"name": "Doce de Leite Moça",
-		"image_url": "https://media-cdn.tripadvisor.com/media/photo-s/08/85/e8/73/simone-pizzas.jpg",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "22.90",
-		"size": "G",
-		"flavor": ["Doce de Leite Caseiro", "Amendoim Granulado"],
-		"category": "Pizza",
-		"is_in_promo": false
-	},
-	{
-		"name": "Coca-Cola",
-		"image_url": "https://andinacocacola.vtexassets.com/arquivos/ids/155513/7894900010015_01.jpg?v=637722480255130000",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "7.90",
-		"size": "",
-		"flavor": [],
-		"category": "Drink",
-		"is_in_promo": false
-	},
-	{
-		"name": "Lasanha",
-		"image_url": "https://img.itdg.com.br/tdg/images/recipes/000/138/558/325115/325115_original.jpg?mode=crop&width=710&height=400",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "7.90",
-		"size": "",
-		"flavor": ["Massa", "Presunto", "Queijo Mussarela", "Carme Moida", "Massa de T"],
-		"category": "Lasagna",
-		"is_in_promo": false
-	},
-	{
-		"name": "Arroz",
-		"image_url": "https://img.itdg.com.br/tdg/images/recipes/000/000/770/323683/323683_original.jpg?w=1200",
-		"rating": {
-			"stars": "5" ,
-			"coment": "The best in town!!"
-		},
-		"price": "6.90",
-		"size": "",
-		"flavor": [],
-		"category": "More",
-		"is_in_promo": false
-	}
+   {
+      "name":"4 Queijos",
+      "image_url":"https://images.aws.nestle.recipes/resized/ec7790c3741418234970f17ade9e50f1_pizza-4-queijos-receitas-nestle_1200_600.jpg",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"15.90",
+      "size":"M",
+      "flavor":[
+         "Mussarela",
+         "Provolone",
+         "Parmesão",
+         "Catupiry",
+         "Orégano"
+      ],
+      "category":"Pizza",
+      "is_in_promo":true
+   },
+   {
+      "name":"Calabresa",
+      "image_url":"https://t2.rg.ltmcdn.com/pt/posts/9/8/3/pizza_calabresa_e_mussarela_4389_600.jpgg",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"20.90",
+      "size":"G",
+      "flavor":[
+         "Mussarela",
+         "Calabresa",
+         "Orégano"
+      ],
+      "category":"Pizza",
+      "is_in_promo":false
+   },
+   {
+      "name":"Frango c/ Catupiry",
+      "image_url":"http://www.hojetemfrango.com.br/wp-content/uploads/2019/01/shutterstock_333724454.jpg",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"21.90",
+      "size":"P",
+      "flavor":[
+         "Mussarela",
+         "Frango",
+         "Catupiry",
+         "Orégano"
+      ],
+      "category":"Pizza",
+      "is_in_promo":true
+   },
+   {
+      "name":"Margerita",
+      "image_url":"https://static.clubedaanamariabraga.com.br/wp-content/uploads/2020/08/pizza-margherita.jpg?x41527",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"22.90",
+      "size":"PP",
+      "flavor":[
+         "Mussarela",
+         "Tomate",
+         "Manjericão"
+      ],
+      "category":"Pizza",
+      "is_in_promo":false
+   },
+   {
+      "name":"Pão de alho",
+      "image_url":"https://www.hypeness.com.br/1/2020/03/dominos4-1.png",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"22.90",
+      "size":"PP",
+      "flavor":[
+         "Mussarela",
+         "Pasta de alho",
+         "Manjericão"
+      ],
+      "category":"Pizza",
+      "is_in_promo":false
+   },
+   {
+      "name":"Banana Caramelizada",
+      "image_url":"https://haraldfoodservice.com.br/wp-content/uploads/2019/12/pizza-de-banana-e-chocolate-branco-imagem-a-esquerda-receitas-960x440.jpg",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"22.90",
+      "size":"M",
+      "flavor":[
+         "Banana",
+         "Açúcar",
+         "Canela"
+      ],
+      "category":"Pizza",
+      "is_in_promo":true
+   },
+   {
+      "name":"Doce de Leite Moça",
+      "image_url":"https://media-cdn.tripadvisor.com/media/photo-s/08/85/e8/73/simone-pizzas.jpg",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"22.90",
+      "size":"G",
+      "flavor":[
+         "Doce de Leite Caseiro",
+         "Amendoim Granulado"
+      ],
+      "category":"Pizza",
+      "is_in_promo":false
+   },
+   {
+      "name":"Coca-Cola",
+      "image_url":"https://andinacocacola.vtexassets.com/arquivos/ids/155513/7894900010015_01.jpg?v=637722480255130000",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"7.90",
+      "size":"",
+      "flavor":[
+         
+      ],
+      "category":"Drink",
+      "is_in_promo":false
+   },
+   {
+      "name":"Lasanha",
+      "image_url":"https://img.itdg.com.br/tdg/images/recipes/000/138/558/325115/325115_original.jpg?mode=crop&width=710&height=400",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"7.90",
+      "size":"",
+      "flavor":[
+         "Massa",
+         "Presunto",
+         "Queijo Mussarela",
+         "Carme Moida",
+         "Massa de T"
+      ],
+      "category":"Lasagna",
+      "is_in_promo":false
+   },
+   {
+      "name":"Arroz",
+      "image_url":"https://img.itdg.com.br/tdg/images/recipes/000/000/770/323683/323683_original.jpg?w=1200",
+      "rating":[
+         {
+            "stars":"5",
+            "coment":"The best in town!!"
+         }
+      ],
+      "price":"6.90",
+      "size":"",
+      "flavor":[
+         
+      ],
+      "category":"More",
+      "is_in_promo":false
+   }
 ]
