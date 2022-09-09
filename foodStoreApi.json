@@ -24,5 +24,109 @@
 		"flavor": ["Mussarela", "Calabresa", "Orégano"],
 		"category": "Pizza",
 		"isInPromo": false
+	},
+	{
+		"name": "Frango c/ Catupiry",
+		"imageUrl": "http://www.hojetemfrango.com.br/wp-content/uploads/2019/01/shutterstock_333724454.jpg",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "21.90",
+		"size": "P",
+		"flavor": ["Mussarela", "Frango", "Catupiry", "Orégano"],
+		"category": "Pizza",
+		"isInPromo": true
+	},
+	{
+		"name": "Margerita",
+		"imageUrl": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2020/08/pizza-margherita.jpg?x41527",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "22.90",
+		"size": "PP",
+		"flavor": ["Mussarela", "Tomate", "Manjericão"],
+		"category": "Pizza",
+		"isInPromo": false
+	},
+	{
+		"name": "Pão de alho",
+		"imageUrl": "https://www.hypeness.com.br/1/2020/03/dominos4-1.png",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "22.90",
+		"size": "PP",
+		"flavor": ["Mussarela", "Pasta de alho", "Manjericão"],
+		"category": "Pizza",
+		"isInPromo": false
+	},
+	{
+		"name": "Banana Caramelizada",
+		"imageUrl": "https://haraldfoodservice.com.br/wp-content/uploads/2019/12/pizza-de-banana-e-chocolate-branco-imagem-a-esquerda-receitas-960x440.jpg",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "22.90",
+		"size": "M",
+		"flavor": ["Banana", "Açúcar", "Canela"],
+		"category": "Pizza",
+		"isInPromo": true
+	},
+	{
+		"name": "Doce de Leite Moça",
+		"imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/08/85/e8/73/simone-pizzas.jpg",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "22.90",
+		"size": "G",
+		"flavor": ["Doce de Leite Caseiro", "Amendoim Granulado"],
+		"category": "Pizza",
+		"isInPromo": false
+	},
+	{
+		"name": "Coca-Cola",
+		"imageUrl": "https://andinacocacola.vtexassets.com/arquivos/ids/155513/7894900010015_01.jpg?v=637722480255130000",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "7.90",
+		"size": "",
+		"flavor": [],
+		"category": "Drink",
+		"isInPromo": false
+	},
+	{
+		"name": "Lasanha",
+		"imageUrl": "https://img.itdg.com.br/tdg/images/recipes/000/138/558/325115/325115_original.jpg?mode=crop&width=710&height=400",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "7.90",
+		"size": "",
+		"flavor": ["Massa", "Presunto", "Queijo Mussarela", "Carme Moida", "Massa de T"],
+		"category": "Lasagna",
+		"isInPromo": false
+	},
+	{
+		"name": "Arroz",
+		"imageUrl": "https://img.itdg.com.br/tdg/images/recipes/000/000/770/323683/323683_original.jpg?w=1200",
+		"rating": {
+			"stars": "5" ,
+			"coment": "The best in town!!"
+		},
+		"price": "6.90",
+		"size": "",
+		"flavor": [],
+		"category": "More",
+		"isInPromo": false
 	}
 ]
