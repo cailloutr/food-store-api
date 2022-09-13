@@ -2,10 +2,12 @@
 {
       "name":"4 Queijos",
       "image_url":"https://images.aws.nestle.recipes/resized/ec7790c3741418234970f17ade9e50f1_pizza-4-queijos-receitas-nestle_1200_600.jpg",
-      "rating":{
+      "rating":[
+            {
             "stars":"5",
             "comment":"The best in town!!"
-         },
+            }
+      ],
       "price":"15.90",
       "size":"M",
       "flavor":[
